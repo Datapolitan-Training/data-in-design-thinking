@@ -24,9 +24,9 @@ class: center,middle
 
 ## Facilitator: Richard Dunks
 
-### Follow along at: 
+### Follow along at: https://bit.ly/data-design-thinking
 
-#### See the code at: 
+#### See the code at: https://bit.ly/data-design-thinking-code
 
 <p class="license-text"><strong><strong>Data in Design Thinking</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
