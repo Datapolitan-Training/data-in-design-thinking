@@ -89,7 +89,7 @@ exclude:true
 + One thing resonating with you from Monday's session
 --
 
-+ 1 data point that made an impact on your thinking (good or bad)
++ 1 data point that has made an impact on your thinking (good or bad)
 
 ---
 
